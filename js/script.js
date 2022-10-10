@@ -59,7 +59,6 @@ function getRandomSymbol() {
 	const symbols = '~!@#$%^&*()_+{}":?><;.,';
 	return symbols[Math.floor(Math.random() * symbols.length)];
 }
-
 // Selecting all the DOM Elements that are necessary -->
 
 // The Viewbox where the result will be shown
